@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @kavi-svg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kavi-svg/kavi-svg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+name     : Kavyanjali Bouddha
+username : kavi-svg
+based_in : India 🇮🇳
+role     : Designer & Developer
+passion  : Turning ideas into beautiful experiences
+🎨  Designing  →  always sketching something new
+🔤  Logo Making →  obsessed with typography & negative space
+✨  UI Concepts →  redesigning apps just for fun
+🐍  Coding      →  automating the boring stuff with Python
+🎵  Music       →  creative fuel, always on
+📸  Aesthetics  →  curating visual moods & color palettes
