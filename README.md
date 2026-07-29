@@ -1,10 +1,10 @@
 🎓 B.Tech Student — Artificial Intelligence
-🤖 Passionate about AI | Machine Learning | Deep Learning
+ Passionate about AI | Machine Learning | Deep Learning
 📚 Always learning, always growing — Learner at Heart
 🏸 Badminton Player — smashing on and off the court!
 🎖️ NCC Cadet — proudly holding C Certificate
-🌱 Currently exploring the world of Neural Networks & NLP
-🎖️ Achievements
+ Currently exploring the world of Neural Networks & NLP
+ Achievements
 
 | Achievement | Details |
 |---|---|
@@ -14,8 +14,7 @@
 💬 Quote I Live By
 
 > *"The more I learn, the more I realize how much I don't know."*
-> — And that's what keeps me going! 🚀
-
+> — And that's what keeps me going! 
 ---
 
 ⭐ **Thanks for visiting my profile! Keep learning, keep growing!** ⭐
